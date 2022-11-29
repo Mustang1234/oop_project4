@@ -1,0 +1,27 @@
+﻿cl : 명령줄 warning D9035: 'Gm' 옵션은 더 이상 사용되지 않으므로 이후 릴리스에서 제거될 예정입니다.
+  virtualLego.cpp
+C:\Users\32gur\Desktop\hi\2-2\객체지향 프로그래밍\project4\project4\d3dUtility.h(23,1): warning C4005: 'INFINITY': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_math.h(88): message : 'INFINITY'의 이전 정의를 참조하십시오.
+C:\Users\32gur\Desktop\hi\2-2\객체지향 프로그래밍\project4\project4\virtualLego.cpp(110,7): warning C4244: '인수': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\32gur\Desktop\hi\2-2\객체지향 프로그래밍\project4\project4\virtualLego.cpp(153,35): warning C4244: '인수': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\32gur\Desktop\hi\2-2\객체지향 프로그래밍\project4\project4\virtualLego.cpp(153,32): warning C4244: '인수': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\32gur\Desktop\hi\2-2\객체지향 프로그래밍\project4\project4\virtualLego.cpp(153,29): warning C4244: '인수': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\32gur\Desktop\hi\2-2\객체지향 프로그래밍\project4\project4\virtualLego.cpp(161,39): warning C4244: '인수': 'const double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\32gur\Desktop\hi\2-2\객체지향 프로그래밍\project4\project4\virtualLego.cpp(161,29): warning C4244: '인수': 'const double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\32gur\Desktop\hi\2-2\객체지향 프로그래밍\project4\project4\virtualLego.cpp(161,19): warning C4244: '인수': 'const double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\32gur\Desktop\hi\2-2\객체지향 프로그래밍\project4\project4\virtualLego.cpp(212,7): warning C4244: '인수': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\32gur\Desktop\hi\2-2\객체지향 프로그래밍\project4\project4\virtualLego.cpp(256,35): warning C4244: '인수': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\32gur\Desktop\hi\2-2\객체지향 프로그래밍\project4\project4\virtualLego.cpp(256,32): warning C4244: '인수': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\32gur\Desktop\hi\2-2\객체지향 프로그래밍\project4\project4\virtualLego.cpp(256,29): warning C4244: '인수': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\32gur\Desktop\hi\2-2\객체지향 프로그래밍\project4\project4\virtualLego.cpp(288,7): warning C4244: '인수': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\32gur\Desktop\hi\2-2\객체지향 프로그래밍\project4\project4\virtualLego.cpp(292,21): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\32gur\Desktop\hi\2-2\객체지향 프로그래밍\project4\project4\virtualLego.cpp(425,72): warning C4244: '인수': 'const double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\32gur\Desktop\hi\2-2\객체지향 프로그래밍\project4\project4\virtualLego.cpp(425,59): warning C4244: '인수': 'const double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\32gur\Desktop\hi\2-2\객체지향 프로그래밍\project4\project4\virtualLego.cpp(582,96): warning C4305: '인수': 'double'에서 'FLOAT'(으)로 잘립니다.
+C:\Users\32gur\Desktop\hi\2-2\객체지향 프로그래밍\project4\project4\virtualLego.cpp(618,45): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\32gur\Desktop\hi\2-2\객체지향 프로그래밍\project4\project4\virtualLego.cpp(698,74): warning C4244: '인수': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\32gur\Desktop\hi\2-2\객체지향 프로그래밍\project4\project4\virtualLego.cpp(698,56): warning C4244: '인수': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\32gur\Desktop\hi\2-2\객체지향 프로그래밍\project4\project4\virtualLego.cpp(698,31): warning C4244: '인수': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\32gur\Desktop\hi\2-2\객체지향 프로그래밍\project4\project4\virtualLego.cpp(699,43): warning C4244: '인수': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\32gur\Desktop\hi\2-2\객체지향 프로그래밍\project4\project4\virtualLego.cpp(699,22): warning C4244: '인수': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  VirtualLego.vcxproj -> C:\Users\32gur\Desktop\hi\2-2\객체지향 프로그래밍\project4\project4\Debug\VirtualLego.exe
